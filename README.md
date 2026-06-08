@@ -1,66 +1,31 @@
 # Hi, I'm Sayan 👋
 
-BTech Student at NIT Durgapur | Aspiring Software Developer |📍 India
+B.Tech student at NIT Durgapur, building full-stack web apps and improving at competitive programming, data structures and algorithms.
 
 ---
 
-## 🚀 About Me
+## Projects
 
-* Solving **Data Structures & Algorithms** in C++ (LeetCode)
-* Regularly participating in **Competitive Programming** contests (Codeforces, CodeChef, AtCoder)
-* Building **full-stack web applications** using React, Node.js, and MongoDB
-* Interested in **real-world systems, backend logic, and scalable design**
-* Currently working towards **software development internships**
+### Courtyard — Campus Social Platform
+A full-stack social platform for verified college communities, built with the MERN stack and deployed.
 
----
+- College email domain verification for restricted access
+- Reddit-style communities with posts, comments, likes, and saves
+- Follow system, profile management, and category-based feed filtering
+- Google OAuth authentication
 
-## 🔥 Featured Project
-
-### 🏡 Courtyard — Social Platform
-
-A full-stack social platform built and deployed, tested with real users and iterative feedback.
-
-**Features:**
-
-* Google Authentication (sessions & cookies)
-* Create posts (text + images + anonymous)
-* Comments & interactions
-* Link detection in posts
-* Report system for moderation
-* Profile editing & image uploads
-
-**Tech Stack:**
-React • Node.js • Express • MongoDB
-
-**Key Learnings:**
-
-* Handling authentication & session persistence
-* Debugging real-world issues (CORS, cookies, file uploads)
-* Designing scalable MongoDB schemas
-* Improving UX based on user feedback
-
-🔗 Live: https://courtyard-lyart.vercel.app/
-🔗 Repo: https://github.com/Sayan-Majumdar-06/courtyard
+**Stack:** React · Node.js · Express · MongoDB · Tailwind CSS  
+**Deploy:** Vercel (frontend) · Render (backend)  
+🔗 [Live](https://courtyard-lyart.vercel.app) · [Repo](https://github.com/Sayan-Majumdar-06/courtyard)
 
 ---
 
-## 💻 DSA Practice & CP
-
-* Regularly solving problems on Codeforces & LeetCode
-* Focus on time complexity and problem-solving patterns
-* Currently progressing through structured DSA sheets
-
----
-
-## 📈 Current Focus
-
-* Strengthening problem-solving & CP skills
-* Building more advanced projects (real-time / scalable apps)
-* Improving frontend + backend integration
+## Skills
+**Languages:** C++, JavaScript  
+**Web:** React, Node.js, Express, MongoDB, Tailwind CSS  
+**Tools:** Git, Postman, VS Code
 
 ---
 
-## 📫 Connect
-
-* GitHub: https://github.com/Sayan-Majumdar-06
-* LinkedIn: https://www.linkedin.com/in/sayan-majumdar31
+## Connect
+[LinkedIn](https://www.linkedin.com/in/sayan-majumdar31) · [Codeforces](https://codeforces.com/profile/sayan_31)
