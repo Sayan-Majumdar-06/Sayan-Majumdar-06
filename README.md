@@ -1,6 +1,6 @@
 # Hi, I'm Sayan 👋
 
-B.Tech student at NIT Durgapur, building full-stack web apps and improving at competitive programming, data structures and algorithms.
+B.Tech student at NIT Durgapur, building full-stack web apps and improving at competitive programming.
 
 ---
 
